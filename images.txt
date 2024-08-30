@@ -1,2 +1,2 @@
-neo4j:5.22.0
+nvidia/cuda:11.8.0-devel-centos7
 --platform=linux/amd64
