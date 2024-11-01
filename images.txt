@@ -1,2 +1,2 @@
-nvidia/cuda:11.8.0-devel-centos7
+israelhikingmap/graphhopper:9.1
 --platform=linux/amd64
