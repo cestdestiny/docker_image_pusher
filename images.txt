@@ -1,1 +1,1 @@
-israelhikingmap/graphhopper:9.1
+mediagis/nominatim:4.4
