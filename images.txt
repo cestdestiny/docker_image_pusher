@@ -1,1 +1,1 @@
-mediagis/nominatim:4.4
+bitnami/attu:2.4.12
