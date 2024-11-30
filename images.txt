@@ -1,1 +1,1 @@
-bitnami/attu:2.4.12
+zilliz/attu:v2.3.5
