@@ -1,1 +1,1 @@
-zilliz/attu:v2.3.5
+prestodb/presto:latest
