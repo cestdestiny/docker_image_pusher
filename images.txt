@@ -1,1 +1,1 @@
-milvusdb/milvus:v2.3.21
+iatebes/oracle_11g
