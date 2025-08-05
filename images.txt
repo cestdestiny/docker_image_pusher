@@ -1,1 +1,1 @@
-dweomer/serf:latest
+bitnami/mysql:8.0.40
