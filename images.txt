@@ -1,1 +1,1 @@
-elasticsearch:6.4.0
+milvusdb/milvus:v2.6.2
